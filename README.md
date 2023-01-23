@@ -38,7 +38,7 @@ The EPA 24 hour exposure limit of PM10 particles is 150 μg/m. The one location 
  
 ### Conclusion
 
-This data shows that the concerns voiced by the neighbors in the Greenfield subdivision and the surrounding neighborhoods in regards to air quality and the HelloFresh/Factor_75 facility are valid. The levels observed are cause for concern for the health of these residents. Based on the levels of PM2.5 and PM10 particulate across the various locations, and given their locations in the environment, it is reasonable to conclude that the HelloFresh/Factor_75 facility is causing the elevated levels of particulate matter in the Greenfield subdivision and surrounding neighborhoods.
+This data validates the concerns voiced by the neighbors in the Greenfield subdivision and the surrounding neighborhoods in regards to air quality and the HelloFresh/Factor_75 facility. The levels observed are cause for concern for the health of these residents. Based on the levels of PM2.5 and PM10 particulate across the various locations, and given their locations in the environment, it is reasonable to conclude that the HelloFresh/Factor_75 facility is causing the elevated levels of particulate matter in the Greenfield subdivision and surrounding neighborhoods.
 
 Therefore, the City of Aurora should conduct an official investigation of the practices of this facility, in tandem with an official environmental study of the area. Given the potential detriment this facility is causing to residents, this matter calls for serious and prompt response by the city.
 
