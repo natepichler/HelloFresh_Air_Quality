@@ -44,21 +44,21 @@ Therefore, the City of Aurora should conduct an official investigation of the pr
 
 ### References
 
-Airbeam 3 and PMS7003 Particulate Sensor Datasheet
-https://www.habitatmap.org/airbeam
+Airbeam 3 and PMS7003 Particulate Sensor Datasheet  
+https://www.habitatmap.org/airbeam  
 https://github.com/waggle-sensor/sensors/blob/master/sensors/datasheets/pms7003.pdf
 
-AirThings View Plus and PM2105-M Particulate Sensor Datasheet
-https://www.airthings.com/view-plus
+AirThings View Plus and PM2105-M Particulate Sensor Datasheet  
+https://www.airthings.com/view-plus  
 https://pdf.directindustry.com/pdf/cubic-sensor-instrument-co-ltd/laser-particle-sensor-pm2105-m/54752-905598-_3.html
 
-Environmental and Health Resources
-https://ww2.arb.ca.gov/resources/overview-diesel-exhaust-and-health
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1637978/
-https://www.tandfonline.com/doi/abs/10.1080/08958378.2022.2049931?journalCode=iiht20
-https://www.epa.gov/sites/default/files/2020-04/documents/fact_sheet_pm_naaqs_proposal.pdf
-https://www.epa.gov/sites/default/files/2014-08/documents/refguide_appendix_e.pdf
-https://ncceh.ca/documents/field-inquiry/carbon-dioxide-indoor-air
+Environmental and Health Resources  
+https://ww2.arb.ca.gov/resources/overview-diesel-exhaust-and-health  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1637978/  
+https://www.tandfonline.com/doi/abs/10.1080/08958378.2022.2049931?journalCode=iiht20  
+https://www.epa.gov/sites/default/files/2020-04/documents/fact_sheet_pm_naaqs_proposal.pdf  
+https://www.epa.gov/sites/default/files/2014-08/documents/refguide_appendix_e.pdf  
+https://ncceh.ca/documents/field-inquiry/carbon-dioxide-indoor-air  
 
-Data
+Data  
 https://github.com/natepichler/HelloFresh_Air_Quality
